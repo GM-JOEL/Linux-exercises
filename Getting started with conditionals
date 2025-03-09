@@ -23,6 +23,7 @@ Sample Output
 
 YES
 ------- ANSWER ------------------
+#!/bin/bash
 read x
 if [ $x == "y" ] || [ $x == "Y" ]; then
 echo "YES"
